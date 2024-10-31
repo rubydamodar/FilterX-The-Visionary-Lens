@@ -28,6 +28,7 @@ FilterX is an innovative webcam application designed to enhance your video feed 
 
 ## 🎨 Features
 
+
 - **Artistic Filters**: Choose from a wide range of filters, including:
   - X-ray
   - Sepia
